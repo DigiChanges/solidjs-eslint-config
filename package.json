@@ -1,0 +1,17 @@
+{
+  "name": "solidjs-eslint-config",
+  "description": "eslint convention for DigiChanges projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": false,
+  "repository": "git@github.com:DigiChanges/solidjs-eslint-config.git",
+  "author": "DigiChanges",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
+    "@typescript-eslint/experimental-utils": "^5.10.1",
+    "@typescript-eslint/parser": "^5.8.1",
+    "eslint": "^8.6.0",
+    "eslint-plugin-solid": "^0.4.3"
+  }
+}
