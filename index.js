@@ -22,6 +22,7 @@ module.exports = {
     ],
     rules: {
         "solid/jsx-no-undef": 2,
+        'jsx-quotes': [ 'error', 'prefer-double' ],
         "indent": [
             1,
             4,
