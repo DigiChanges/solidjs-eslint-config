@@ -60,6 +60,7 @@ module.exports = {
             "warn",
             "always"
         ],
+        'template-curly-spacing': [ 'warn', 'never' ],
         "padded-blocks": ["error", "never"],
         "block-spacing": "warn",
         "arrow-spacing": "warn",
@@ -82,6 +83,7 @@ module.exports = {
             "error",
             "always"
         ],
+        'no-multi-spaces': 'error',
         "brace-style": [
             "warn",
             "allman",
